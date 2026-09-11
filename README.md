@@ -21,6 +21,8 @@
    - sprchová podesta (9 500 Kč) – jak bude řešen odtok (liniový žlab / bodová vpusť), kdo dodává žlab či vpusť, výška podesty (bude schod?)
    - kompletace zařizovacích předmětů (12 000 Kč) – zda zahrnuje montáž sprchové zástěny
    - ventilátor – doplnit, nebo potvrdit, že je v elektroinstalaci
+   - otopný žebřík?
+   - zrcadlo?
 
 > Obecně: materiál dodaný zhotovitelem jako součást díla jde za 12 % DPH, materiál nakoupený svépomocí za 21 %.
 
