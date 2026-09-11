@@ -39,7 +39,7 @@
 
 ## Formální stránka
 
-11. **Platnost nabídky** vypršela 26. 6. 2026 – nechat cenu písemně potvrdit.
+11. **Platnost nabídky** vypršela 26. 6. 2026 – nechat potvrdit, že OK.
 12. **Smlouva o dílo:**
     - harmonogram a termín dokončení
     - platby po etapách s pozastávkou 5–10 % do převzetí bez vad, záloha nanejvýš na materiál
