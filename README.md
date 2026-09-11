@@ -50,4 +50,4 @@
 
 ## Srovnání
 
-13. Poslat stejný výkaz výměr jedné nebo dvěma dalším firmám.
+13. Poslat stejný výkaz výměr jedné nebo dvěma dalším firmám. (?)
