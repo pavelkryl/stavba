@@ -23,6 +23,9 @@
    - ventilátor – doplnit, nebo potvrdit, že je v elektroinstalaci
    - otopný žebřík?
    - zrcadlo?
+   - WC:
+     - sanita model?
+     - nádržka jaká značka?
 
 > Obecně: materiál dodaný zhotovitelem jako součást díla jde za 12 % DPH, materiál nakoupený svépomocí za 21 %.
 
