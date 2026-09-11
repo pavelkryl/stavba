@@ -12,7 +12,7 @@
 2. **Elektroinstalace (78 000 Kč, kpl)** – rozepsat rozsah a materiál: počet zásuvek a světelných vývodů, Cu kabel, osazení rozvaděče (jističe, proudové chrániče), kdo provádí a podepisuje revizi.
 3. **Vodoinstalace (29 000 Kč, kpl)** – rozsah zahrnuje koupelnu i kuchyň; potvrdit přípojky pro pračku a dřez (vč. myčky?). Tlaková zkouška je součástí nabídky, protokol požadovat při předání.
 4. **Vinyl** – opravit výměru z 66 m² na skutečnou plochu bez dlažby (případně bez plochy pod kuchyňskou linkou).
-5. 🔴 **Stoupačka (3 000 Kč)** – co přesně zahrnuje; koordinace se SVJ (společná část domu, odstávka vody).
+5. **Stoupačka (3 000 Kč)** – co přesně zahrnuje; koordinace se SVJ (společná část domu, odstávka vody).
 6. **Výmalba** – místo HET Klasik (oděr za mokra třída 5, neomyvatelná):
    - stropy: HET Klasik stačí
    - všechny stěny vč. předsíně: Primalex Essence bílá (oděr za mokra třída 2, hluboký mat)
